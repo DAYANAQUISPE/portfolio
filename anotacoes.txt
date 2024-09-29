@@ -1,0 +1,22 @@
+HTML eCSS: trabalhando com responsividade e publicação de projetos
+
+01.Unidade de medidas:
+- Unidade de Medida REM: 
+    -Essa unidade de medida é relativa, diferente do px que é absoluta.
+    - Aplicando o REM:
+    A unidade de medida REM acompanha a unidade de media do navegador.
+
+02.Adaptando elemento:
+- Descubra a super unidade de medida:
+    - Porcentagem é uma unidade de medida relativa ao elemento pai.
+    - A unidade de medida pordentagem(%) faz com que a imagem ou qualquer elemento ocupe metade de qualquer tela quando aplicamos 50% em sua largura.
+- Figma Mobile:
+    -Responsividade
+03.Responsividade:
+- Media Queries:
+    - Apliquei o gap no elemento pai, assim fazendo com que seus elementos dentro delele não se oncostem, commo uma imagem e um texto que é o conteúdo.
+    - Usei o column-reverse, que vai inverter os conteudos filhos que estavam dentro da classe '.apresentacao' .
+-Cabeçalho responsivo:
+
+04.Responsividade e GitHub:
+- Conteúdo responsivo: Arrumamos as Laterais que ficavam grande quando a tela era do tamanho de um celular, onde o conteúdo ficava todo esprimido. A forma para arrumarmos isso foi que esa sectiona tinha um width de 50%, onde tivemos que por para alor width: auto;, ou também, width:100%; também dá certo.
